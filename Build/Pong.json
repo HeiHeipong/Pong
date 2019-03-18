@@ -1,13 +1,13 @@
 {
 "companyName": "smallbirds",
 "productName": "pong",
-"dataUrl": "webgam.data.unityweb",
-"wasmCodeUrl": "webgam.wasm.code.unityweb",
-"wasmFrameworkUrl": "webgam.wasm.framework.unityweb",
+"dataUrl": "Pong.data.unityweb",
+"wasmCodeUrl": "Pong.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pong.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "webgam.jpg",
+"backgroundUrl": "Pong.jpg",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"}
